@@ -10,11 +10,14 @@ I love coding! I started with C++, then I learned HTML, CSS and JS.
 *   🖥️  See my portfolio at [My Website](http://1emil.dev)
 *   ✉️  You can contact me at [1emiltv@gmail.com](mailto:1emiltv@gmail.com)
 *   🧠  I'm learning Python
-*   ⚡  I'm secretly Spiderman, but don't tell anyone please...<a href="https://www.github.com/1EmilTV" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm secretly Spiderman, but don't tell anyone please...
+*
+  <a href="https://www.github.com/1EmilTV" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/1EmilTV?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/1EmilTV" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/1EmilTV?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
                 /></a><a href="https://www.twitch.tv/1EmilTV" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/1EmilTV?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=000000&label=TWITCH+STATUS" /></a>### Skills 
+                  src="https://img.shields.io/twitch/status/1EmilTV?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=000000&label=TWITCH+STATUS" /></a>
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
                     </p>
