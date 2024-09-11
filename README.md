@@ -6,7 +6,7 @@ Web Developer
 
 I love coding! I started with C++, then I learned HTML, CSS and JS.
 
-* 🌍  I'm based in Sachsen, Deutschland
+* 🌍  I'm based in Deutschland
 * 🖥️  See my portfolio at [My Website](http://1emil.dev)
 * ✉️  You can contact me at [1emiltv1@gmail.com](mailto:1emiltv1@gmail.com)
 * 🧠  I'm learning Python
